@@ -13,3 +13,20 @@ document.querySelector('.hamburger').addEventListener("click", () => {
         },300)
     }
 })   
+
+
+var typed = new Typed(".typing", {
+    strings: ["Programmer","Student","Traveller"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+});
+
+var typed = new Typed(".typing-2", {
+    strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+});
+
+
