@@ -23,7 +23,7 @@ var typed = new Typed(".typing", {
 });
 
 var typed = new Typed(".typing-2", {
-    strings: ["Portfolio"],
+    strings: ["Portfolio","Profile","Website"],
     typeSpeed: 200,
     backSpeed: 60,
     loop: true
