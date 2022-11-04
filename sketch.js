@@ -23,10 +23,11 @@ var typed = new Typed(".typing", {
 });
 
 var typed = new Typed(".typing-2", {
-    strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-    typeSpeed: 100,
+    strings: ["Portfolio"],
+    typeSpeed: 200,
     backSpeed: 60,
     loop: true
 });
+
 
 
