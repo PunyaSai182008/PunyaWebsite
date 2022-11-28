@@ -8,7 +8,7 @@
 }
 
 .sidebar {
-    position: absolute;
+    position: fixed;
     background-image: linear-gradient(#6E45E1, #89D4CF);
     font-family: 'Fira Sans', sans-serif;
     height: 105vh;
@@ -266,11 +266,11 @@ p {
 
 .sidebarGo {
     transform: translate(-443px, 0px);
-    position: absolute;
+    position: fixed;
 }
 
 .hamburger {
-    position: absolute;
+    position: fixed;
     cursor: pointer;
     top: 10px;
     left: 10px;
